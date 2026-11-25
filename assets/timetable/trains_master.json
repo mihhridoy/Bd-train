@@ -1,0 +1,720 @@
+{
+  "schema_version": 1,
+  "timezone": "Asia/Dhaka",
+  "runs": [
+    {
+      "train_id": "715",
+      "train_number": "715",
+      "name_en": "Kapotaskh Express",
+      "name_bn": null,
+      "service_type": "intercity",
+      "weekly_off_day": "Saturday",
+      "origin": {
+        "name": "Khulna",
+        "departure": "06:30"
+      },
+      "destination": {
+        "name": "Rajshahi",
+        "arrival": "13:10"
+      },
+      "stops": [],
+      "stops_status": "missing",
+      "verification_status": "official_source_partial_transcription",
+      "source_url": "https://railway.gov.bd/pages/static-pages/691997d5933eb65569ddf8e2",
+      "last_checked_at": null
+    },
+    {
+      "train_id": "716",
+      "train_number": "716",
+      "name_en": "Kapotaskh Express",
+      "name_bn": null,
+      "service_type": "intercity",
+      "weekly_off_day": "Saturday",
+      "origin": {
+        "name": "Rajshahi",
+        "departure": "14:00"
+      },
+      "destination": {
+        "name": "Khulna",
+        "arrival": "20:50"
+      },
+      "stops": [],
+      "stops_status": "missing",
+      "verification_status": "official_source_partial_transcription",
+      "source_url": "https://railway.gov.bd/pages/static-pages/691997d5933eb65569ddf8e2",
+      "last_checked_at": null
+    },
+    {
+      "train_id": "725",
+      "train_number": "725",
+      "name_en": "Sundarban Express",
+      "name_bn": null,
+      "service_type": "intercity",
+      "weekly_off_day": "Tuesday",
+      "origin": {
+        "name": "Khulna",
+        "departure": "19:30"
+      },
+      "destination": {
+        "name": "Dhaka",
+        "arrival": "05:40"
+      },
+      "stops": [],
+      "stops_status": "missing",
+      "verification_status": "official_source_partial_transcription",
+      "source_url": "https://railway.gov.bd/pages/static-pages/691997d5933eb65569ddf8e2",
+      "last_checked_at": null
+    },
+    {
+      "train_id": "726",
+      "train_number": "726",
+      "name_en": "Sundarban Express",
+      "name_bn": null,
+      "service_type": "intercity",
+      "weekly_off_day": "Wednesday",
+      "origin": {
+        "name": "Dhaka",
+        "departure": "06:20"
+      },
+      "destination": {
+        "name": "Khulna",
+        "arrival": "16:20"
+      },
+      "stops": [],
+      "stops_status": "missing",
+      "verification_status": "official_source_partial_transcription",
+      "source_url": "https://railway.gov.bd/pages/static-pages/691997d5933eb65569ddf8e2",
+      "last_checked_at": null
+    },
+    {
+      "train_id": "727",
+      "train_number": "727",
+      "name_en": "Rupsha Express",
+      "name_bn": null,
+      "service_type": "intercity",
+      "weekly_off_day": "Thursday",
+      "origin": {
+        "name": "Khulna",
+        "departure": "07:45"
+      },
+      "destination": {
+        "name": "Saidpur",
+        "arrival": "17:15"
+      },
+      "stops": [],
+      "stops_status": "missing",
+      "verification_status": "official_source_partial_transcription",
+      "source_url": "https://railway.gov.bd/pages/static-pages/691997d5933eb65569ddf8e2",
+      "last_checked_at": null
+    },
+    {
+      "train_id": "728",
+      "train_number": "728",
+      "name_en": "Rupsha Express",
+      "name_bn": null,
+      "service_type": "intercity",
+      "weekly_off_day": "Thursday",
+      "origin": {
+        "name": "Saidpur",
+        "departure": "07:45"
+      },
+      "destination": {
+        "name": "Khulna",
+        "arrival": "18:00"
+      },
+      "stops": [],
+      "stops_status": "missing",
+      "verification_status": "official_source_partial_transcription",
+      "source_url": "https://railway.gov.bd/pages/static-pages/691997d5933eb65569ddf8e2",
+      "last_checked_at": null
+    },
+    {
+      "train_id": "731",
+      "train_number": "731",
+      "name_en": "Barendra Express",
+      "name_bn": null,
+      "service_type": "intercity",
+      "weekly_off_day": "Sunday",
+      "origin": {
+        "name": "Rajshahi",
+        "departure": "15:00"
+      },
+      "destination": {
+        "name": "Nilphamari",
+        "arrival": "21:00"
+      },
+      "stops": [],
+      "stops_status": "missing",
+      "verification_status": "official_source_partial_transcription",
+      "source_url": "https://railway.gov.bd/pages/static-pages/691997d5933eb65569ddf8e2",
+      "last_checked_at": null
+    },
+    {
+      "train_id": "732",
+      "train_number": "732",
+      "name_en": "Barendra Express",
+      "name_bn": null,
+      "service_type": "intercity",
+      "weekly_off_day": "Sunday",
+      "origin": {
+        "name": "Nilphamari",
+        "departure": "06:20"
+      },
+      "destination": {
+        "name": "Rajshahi",
+        "arrival": "12:35"
+      },
+      "stops": [],
+      "stops_status": "missing",
+      "verification_status": "official_source_partial_transcription",
+      "source_url": "https://railway.gov.bd/pages/static-pages/691997d5933eb65569ddf8e2",
+      "last_checked_at": null
+    },
+    {
+      "train_id": "760",
+      "train_number": "760",
+      "name_en": "Padma Express",
+      "name_bn": null,
+      "service_type": "intercity",
+      "weekly_off_day": "Tuesday",
+      "origin": {
+        "name": "Rajshahi",
+        "departure": "16:00"
+      },
+      "destination": {
+        "name": "Dhaka",
+        "arrival": "21:50"
+      },
+      "stops": [],
+      "stops_status": "missing",
+      "verification_status": "official_source_partial_transcription",
+      "source_url": "https://railway.gov.bd/pages/static-pages/691997d5933eb65569ddf8e2",
+      "last_checked_at": null
+    },
+    {
+      "train_id": "761",
+      "train_number": "761",
+      "name_en": "Sagardari Express",
+      "name_bn": null,
+      "service_type": "intercity",
+      "weekly_off_day": "Monday",
+      "origin": {
+        "name": "Khulna",
+        "departure": "14:50"
+      },
+      "destination": {
+        "name": "Rajshahi",
+        "arrival": "21:40"
+      },
+      "stops": [],
+      "stops_status": "missing",
+      "verification_status": "official_source_partial_transcription",
+      "source_url": "https://railway.gov.bd/pages/static-pages/691997d5933eb65569ddf8e2",
+      "last_checked_at": null
+    },
+    {
+      "train_id": "762",
+      "train_number": "762",
+      "name_en": "Sagardari Express",
+      "name_bn": null,
+      "service_type": "intercity",
+      "weekly_off_day": "Monday",
+      "origin": {
+        "name": "Rajshahi",
+        "departure": "06:50"
+      },
+      "destination": {
+        "name": "Khulna",
+        "arrival": "13:30"
+      },
+      "stops": [],
+      "stops_status": "missing",
+      "verification_status": "official_source_partial_transcription",
+      "source_url": "https://railway.gov.bd/pages/static-pages/691997d5933eb65569ddf8e2",
+      "last_checked_at": null
+    },
+    {
+      "train_id": "763",
+      "train_number": "763",
+      "name_en": "Chittra Express",
+      "name_bn": null,
+      "service_type": "intercity",
+      "weekly_off_day": "Monday",
+      "origin": {
+        "name": "Khulna",
+        "departure": "08:30"
+      },
+      "destination": {
+        "name": "Dhaka",
+        "arrival": "18:20"
+      },
+      "stops": [],
+      "stops_status": "missing",
+      "verification_status": "official_source_partial_transcription",
+      "source_url": "https://railway.gov.bd/pages/static-pages/691997d5933eb65569ddf8e2",
+      "last_checked_at": null
+    },
+    {
+      "train_id": "764",
+      "train_number": "764",
+      "name_en": "Chittra Express",
+      "name_bn": null,
+      "service_type": "intercity",
+      "weekly_off_day": "Monday",
+      "origin": {
+        "name": "Dhaka",
+        "departure": "19:00"
+      },
+      "destination": {
+        "name": "Khulna",
+        "arrival": "05:10"
+      },
+      "stops": [],
+      "stops_status": "missing",
+      "verification_status": "official_source_partial_transcription",
+      "source_url": "https://railway.gov.bd/pages/static-pages/691997d5933eb65569ddf8e2",
+      "last_checked_at": null
+    },
+    {
+      "train_id": "765",
+      "train_number": "765",
+      "name_en": "Nilsagar",
+      "name_bn": null,
+      "service_type": "intercity",
+      "weekly_off_day": "Monday",
+      "origin": {
+        "name": "Dhaka Cantt",
+        "departure": "08:25"
+      },
+      "destination": {
+        "name": "Nilphamari",
+        "arrival": "17:15"
+      },
+      "stops": [],
+      "stops_status": "missing",
+      "verification_status": "official_source_partial_transcription",
+      "source_url": "https://railway.gov.bd/pages/static-pages/691997d5933eb65569ddf8e2",
+      "last_checked_at": null
+    },
+    {
+      "train_id": "766",
+      "train_number": "766",
+      "name_en": "Nilsagar",
+      "name_bn": null,
+      "service_type": "intercity",
+      "weekly_off_day": "Sunday",
+      "origin": {
+        "name": "Saidpur",
+        "departure": "23:00"
+      },
+      "destination": {
+        "name": "Dhaka Cantt",
+        "arrival": "07:50"
+      },
+      "stops": [],
+      "stops_status": "missing",
+      "verification_status": "official_source_partial_transcription",
+      "source_url": "https://railway.gov.bd/pages/static-pages/691997d5933eb65569ddf8e2",
+      "last_checked_at": null
+    },
+    {
+      "train_id": "769",
+      "train_number": "769",
+      "name_en": "Dhumketue Express",
+      "name_bn": null,
+      "service_type": "intercity",
+      "weekly_off_day": "Saturday",
+      "origin": {
+        "name": "Dhaka",
+        "departure": "06:00"
+      },
+      "destination": {
+        "name": "Rajshahi",
+        "arrival": "11:50"
+      },
+      "stops": [],
+      "stops_status": "missing",
+      "verification_status": "official_source_partial_transcription",
+      "source_url": "https://railway.gov.bd/pages/static-pages/691997d5933eb65569ddf8e2",
+      "last_checked_at": null
+    },
+    {
+      "train_id": "770",
+      "train_number": "770",
+      "name_en": "Dhumketue Express",
+      "name_bn": null,
+      "service_type": "intercity",
+      "weekly_off_day": "Friday",
+      "origin": {
+        "name": "Rajshahi",
+        "departure": "23:20"
+      },
+      "destination": {
+        "name": "Dhaka",
+        "arrival": "04:55"
+      },
+      "stops": [],
+      "stops_status": "missing",
+      "verification_status": "official_source_partial_transcription",
+      "source_url": "https://railway.gov.bd/pages/static-pages/691997d5933eb65569ddf8e2",
+      "last_checked_at": null
+    },
+    {
+      "train_id": "775",
+      "train_number": "775",
+      "name_en": "Sirajgong Express",
+      "name_bn": null,
+      "service_type": "intercity",
+      "weekly_off_day": "Saturday",
+      "origin": {
+        "name": "Ishurdi",
+        "departure": "07:45"
+      },
+      "destination": {
+        "name": "Dhaka",
+        "arrival": "15:30"
+      },
+      "stops": [],
+      "stops_status": "missing",
+      "verification_status": "official_source_partial_transcription",
+      "source_url": "https://railway.gov.bd/pages/static-pages/691997d5933eb65569ddf8e2",
+      "last_checked_at": null
+    },
+    {
+      "train_id": "776",
+      "train_number": "776",
+      "name_en": "Sirajgong Express",
+      "name_bn": null,
+      "service_type": "intercity",
+      "weekly_off_day": "Saturday",
+      "origin": {
+        "name": "Dhaka",
+        "departure": "17:00"
+      },
+      "destination": {
+        "name": "Ishurdi",
+        "arrival": "00:00"
+      },
+      "stops": [],
+      "stops_status": "missing",
+      "verification_status": "official_source_partial_transcription",
+      "source_url": "https://railway.gov.bd/pages/static-pages/691997d5933eb65569ddf8e2",
+      "last_checked_at": null
+    },
+    {
+      "train_id": "779",
+      "train_number": "779",
+      "name_en": "Kalukhali-Vatiapara Express",
+      "name_bn": null,
+      "service_type": "intercity",
+      "weekly_off_day": "Thursday",
+      "origin": {
+        "name": "Vatiapara Ghat",
+        "departure": "13:40"
+      },
+      "destination": {
+        "name": "Goalondho",
+        "arrival": "17:50"
+      },
+      "stops": [],
+      "stops_status": "missing",
+      "verification_status": "official_source_partial_transcription",
+      "source_url": "https://railway.gov.bd/pages/static-pages/691997d5933eb65569ddf8e2",
+      "last_checked_at": null
+    },
+    {
+      "train_id": "780",
+      "train_number": "780",
+      "name_en": "Kalukhali-Vatiapara Express",
+      "name_bn": null,
+      "service_type": "intercity",
+      "weekly_off_day": "Thursday",
+      "origin": {
+        "name": "Rajbari",
+        "departure": "10:40"
+      },
+      "destination": {
+        "name": "Vatiapara Ghat",
+        "arrival": "13:15"
+      },
+      "stops": [],
+      "stops_status": "missing",
+      "verification_status": "official_source_partial_transcription",
+      "source_url": "https://railway.gov.bd/pages/static-pages/691997d5933eb65569ddf8e2",
+      "last_checked_at": null
+    },
+    {
+      "train_id": "3107",
+      "train_number": "3107",
+      "name_en": "Maitree Express",
+      "name_bn": null,
+      "service_type": "international",
+      "weekly_off_day": "Sat/Sun/Tue/Thu",
+      "origin": {
+        "name": "Dhaka Cantt",
+        "departure": "08:10"
+      },
+      "destination": {
+        "name": "Kolkata",
+        "arrival": "18:45"
+      },
+      "stops": [],
+      "stops_status": "missing",
+      "verification_status": "official_source_partial_transcription",
+      "source_url": "https://railway.gov.bd/pages/static-pages/691997d5933eb65569ddf8e2",
+      "last_checked_at": null
+    },
+    {
+      "train_id": "3110",
+      "train_number": "3110",
+      "name_en": "Maitree Express",
+      "name_bn": null,
+      "service_type": "international",
+      "weekly_off_day": "Sat/Sun/Tue/Thu",
+      "origin": {
+        "name": "Dhaka Cantt",
+        "departure": "08:10"
+      },
+      "destination": {
+        "name": "Kolkata",
+        "arrival": "18:45"
+      },
+      "stops": [],
+      "stops_status": "missing",
+      "verification_status": "official_source_partial_transcription",
+      "source_url": "https://railway.gov.bd/pages/static-pages/691997d5933eb65569ddf8e2",
+      "last_checked_at": null
+    },
+    {
+      "train_id": "3108",
+      "train_number": "3108",
+      "name_en": "Maitree Express",
+      "name_bn": null,
+      "service_type": "international",
+      "weekly_off_day": "Mon/Wed/Thu/Fri",
+      "origin": {
+        "name": "Kolkata",
+        "departure": "07:10"
+      },
+      "destination": {
+        "name": "Dhaka Cantt",
+        "arrival": "18:05"
+      },
+      "stops": [],
+      "stops_status": "missing",
+      "verification_status": "official_source_partial_transcription",
+      "source_url": "https://railway.gov.bd/pages/static-pages/691997d5933eb65569ddf8e2",
+      "last_checked_at": null
+    },
+    {
+      "train_id": "3109",
+      "train_number": "3109",
+      "name_en": "Maitree Express",
+      "name_bn": null,
+      "service_type": "international",
+      "weekly_off_day": "Mon/Wed/Thu/Fri",
+      "origin": {
+        "name": "Kolkata",
+        "departure": "07:10"
+      },
+      "destination": {
+        "name": "Dhaka Cantt",
+        "arrival": "18:05"
+      },
+      "stops": [],
+      "stops_status": "missing",
+      "verification_status": "official_source_partial_transcription",
+      "source_url": "https://railway.gov.bd/pages/static-pages/691997d5933eb65569ddf8e2",
+      "last_checked_at": null
+    },
+    {
+      "train_id": "1",
+      "train_number": "1",
+      "name_en": "Dhaka Mail",
+      "name_bn": null,
+      "service_type": "mail_express",
+      "weekly_off_day": "No",
+      "origin": {
+        "name": "Chattogram",
+        "departure": "22:30"
+      },
+      "destination": {
+        "name": "Dhaka",
+        "arrival": "07:20"
+      },
+      "stops": [],
+      "stops_status": "missing",
+      "verification_status": "official_source_partial_transcription",
+      "source_url": "https://railway.gov.bd/pages/static-pages/691997d5933eb65569ddf8e2",
+      "last_checked_at": null
+    },
+    {
+      "train_id": "2",
+      "train_number": "2",
+      "name_en": "Chattogram Mail",
+      "name_bn": null,
+      "service_type": "mail_express",
+      "weekly_off_day": "No",
+      "origin": {
+        "name": "Dhaka",
+        "departure": "22:30"
+      },
+      "destination": {
+        "name": "Chattogram",
+        "arrival": "07:50"
+      },
+      "stops": [],
+      "stops_status": "missing",
+      "verification_status": "official_source_partial_transcription",
+      "source_url": "https://railway.gov.bd/pages/static-pages/691997d5933eb65569ddf8e2",
+      "last_checked_at": null
+    },
+    {
+      "train_id": "3",
+      "train_number": "3",
+      "name_en": "Karnaphuli Express",
+      "name_bn": null,
+      "service_type": "mail_express",
+      "weekly_off_day": "No",
+      "origin": {
+        "name": "Chattogram",
+        "departure": "10:00"
+      },
+      "destination": {
+        "name": "Dhaka",
+        "arrival": "20:10"
+      },
+      "stops": [],
+      "stops_status": "missing",
+      "verification_status": "official_source_partial_transcription",
+      "source_url": "https://railway.gov.bd/pages/static-pages/691997d5933eb65569ddf8e2",
+      "last_checked_at": null
+    },
+    {
+      "train_id": "4",
+      "train_number": "4",
+      "name_en": "Karnaphuli Express",
+      "name_bn": null,
+      "service_type": "mail_express",
+      "weekly_off_day": "No",
+      "origin": {
+        "name": "Dhaka",
+        "departure": "08:30"
+      },
+      "destination": {
+        "name": "Chattogram",
+        "arrival": "18:30"
+      },
+      "stops": [],
+      "stops_status": "missing",
+      "verification_status": "official_source_partial_transcription",
+      "source_url": "https://railway.gov.bd/pages/static-pages/691997d5933eb65569ddf8e2",
+      "last_checked_at": null
+    },
+    {
+      "train_id": "7",
+      "train_number": "7",
+      "name_en": "Uttarbanga Mail",
+      "name_bn": null,
+      "service_type": "mail_express",
+      "weekly_off_day": "No",
+      "origin": {
+        "name": "Santahar",
+        "departure": "09:30"
+      },
+      "destination": {
+        "name": "Panchagarh",
+        "arrival": "23:10"
+      },
+      "stops": [],
+      "stops_status": "missing",
+      "verification_status": "official_source_partial_transcription",
+      "source_url": "https://railway.gov.bd/pages/static-pages/691997d5933eb65569ddf8e2",
+      "last_checked_at": null
+    },
+    {
+      "train_id": "8",
+      "train_number": "8",
+      "name_en": "Uttarbanga Mail",
+      "name_bn": null,
+      "service_type": "mail_express",
+      "weekly_off_day": "No",
+      "origin": {
+        "name": "Panchagarh",
+        "departure": "07:40"
+      },
+      "destination": {
+        "name": "Santahar",
+        "arrival": "22:40"
+      },
+      "stops": [],
+      "stops_status": "missing",
+      "verification_status": "official_source_partial_transcription",
+      "source_url": "https://railway.gov.bd/pages/static-pages/691997d5933eb65569ddf8e2",
+      "last_checked_at": null
+    },
+    {
+      "train_id": "9",
+      "train_number": "9",
+      "name_en": "Surma Mail",
+      "name_bn": null,
+      "service_type": "mail_express",
+      "weekly_off_day": "No",
+      "origin": {
+        "name": "Dhaka",
+        "departure": "22:50"
+      },
+      "destination": {
+        "name": "Sylhet",
+        "arrival": "12:20"
+      },
+      "stops": [],
+      "stops_status": "missing",
+      "verification_status": "official_source_partial_transcription",
+      "source_url": "https://railway.gov.bd/pages/static-pages/691997d5933eb65569ddf8e2",
+      "last_checked_at": null
+    },
+    {
+      "train_id": "10",
+      "train_number": "10",
+      "name_en": "Surma Mail",
+      "name_bn": null,
+      "service_type": "mail_express",
+      "weekly_off_day": "No",
+      "origin": {
+        "name": "Sylhet",
+        "departure": "20:00"
+      },
+      "destination": {
+        "name": "Dhaka",
+        "arrival": "09:45"
+      },
+      "stops": [],
+      "stops_status": "missing",
+      "verification_status": "official_source_partial_transcription",
+      "source_url": "https://railway.gov.bd/pages/static-pages/691997d5933eb65569ddf8e2",
+      "last_checked_at": null
+    },
+    {
+      "train_id": "11",
+      "train_number": "11",
+      "name_en": "Dhaka Express",
+      "name_bn": null,
+      "service_type": "mail_express",
+      "weekly_off_day": "No",
+      "origin": {
+        "name": "Noakhali",
+        "departure": "21:00"
+      },
+      "destination": {
+        "name": "Dhaka",
+        "arrival": "06:50"
+      },
+      "stops": [],
+      "stops_status": "missing",
+      "verification_status": "official_source_partial_transcription",
+      "source_url": "https://railway.gov.bd/pages/static-pages/691997d5933eb65569ddf8e2",
+      "last_checked_at": null
+    }
+  ]
+}
