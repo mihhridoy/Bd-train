@@ -1,0 +1,82 @@
+[
+  {
+    "source_id": "BR_ALL_SCHEDULES",
+    "publisher": "Bangladesh Railway",
+    "title": "All train schedules landing page",
+    "url": "https://railway.gov.bd/pages/static-pages/691997d5933eb65569ddf8e2",
+    "published_or_updated": "2026-06-11 page update shown",
+    "scope": "Links to Eastern and Western train schedules",
+    "status": "official_primary",
+    "notes": "Current landing page found; linked regional schedules still identify Timetable No. 54 effective 10 March 2025."
+  },
+  {
+    "source_id": "BR_EASTERN_TT54",
+    "publisher": "Bangladesh Railway",
+    "title": "Eastern Zone timetable No. 54",
+    "url": "https://railway.gov.bd/pages/static-pages/691997bf933eb65569ddec51",
+    "published_or_updated": "2025-03-12; effective 2025-03-10",
+    "scope": "Eastern zone schedule PDF",
+    "status": "official_primary",
+    "notes": "PDF download link present on official page; downloadable binary could not be fetched in this execution. Needs full extraction."
+  },
+  {
+    "source_id": "BR_WESTERN_TT54",
+    "publisher": "Bangladesh Railway",
+    "title": "Western Zone timetable No. 54",
+    "url": "https://railway.gov.bd/pages/static-pages/691997b8933eb65569dde71d",
+    "published_or_updated": "2025-03-12; effective 2025-03-10",
+    "scope": "Western zone schedule PDF",
+    "status": "official_primary",
+    "notes": "PDF download link present on official page; downloadable binary timed out in this execution. Needs full extraction."
+  },
+  {
+    "source_id": "BR_STATION_COACH_RESERVATION",
+    "publisher": "Bangladesh Railway",
+    "title": "Station, train seat and additional coach/seat reservation charge information",
+    "url": "https://railway.gov.bd/pages/static-pages/6a2e48d1356c14ea93194a08",
+    "published_or_updated": "2026-06-14",
+    "scope": "Station/seat/coaches/reservation charges",
+    "status": "official_primary",
+    "notes": "10-page PDF is scanned; indexed extraction only yielded CamScanner cover. Needs OCR/manual extraction."
+  },
+  {
+    "source_id": "BR_EASTERN_FARES",
+    "publisher": "Bangladesh Railway",
+    "title": "Eastern Zone train fare list",
+    "url": "https://railway.gov.bd/pages/files/69199762933eb65569ddc6b9",
+    "published_or_updated": "2025-02-13",
+    "scope": "Eastern zone station-to-station fare by class",
+    "status": "official_primary",
+    "notes": "19-page PDF OCR text available but table alignment/labels are noisy; not imported into fare table to avoid incorrect fares."
+  },
+  {
+    "source_id": "BR_WESTERN_FARES",
+    "publisher": "Bangladesh Railway",
+    "title": "Western Zone train fare list",
+    "url": "https://railway.gov.bd/pages/files/6919975d933eb65569ddc526",
+    "published_or_updated": "official page",
+    "scope": "Western zone fares",
+    "status": "official_primary",
+    "notes": "XLS download was not readable by web extraction; needs spreadsheet download/inspection."
+  },
+  {
+    "source_id": "APK_RAIL_GEOMETRY",
+    "publisher": "User-supplied APK",
+    "title": "BD Train 3D Live Tracking rail assets",
+    "url": null,
+    "published_or_updated": "generated 2026-11-10 in embedded metadata",
+    "scope": "386 station coordinate keys, 638 rail segments, 96 bridges, 3,721 roads, 961 places",
+    "status": "user_supplied_secondary",
+    "notes": "OSM attribution embedded. Station IDs and coordinates are useful for map layer but not authoritative timetable/station identity."
+  },
+  {
+    "source_id": "GOJATRA_REFERENCE",
+    "publisher": "Gojatra (independent)",
+    "title": "Bangladesh train schedules across Bangladesh",
+    "url": "https://gojatra.com/train/",
+    "published_or_updated": "2026-08-31",
+    "scope": "Claims 126 intercity, 128 commuter/mail/local, 1,707 timed stops; says derived from Railway timetable",
+    "status": "secondary_cross_check_only",
+    "notes": "Use for discrepancy checking only; do not promote to official verified data without comparing source documents."
+  }
+]

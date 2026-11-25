@@ -1,0 +1,283 @@
+{
+  "@@locale": "en",
+  "appTitle": "BD Train 3D Live Tracking",
+  "navMap": "Map",
+  "navRoutes": "Routes",
+  "navTrains": "Trains",
+  "navSettings": "Settings",
+  "searchHint": "Search station or place",
+  "searchPrompt": "Type a station or place name in Bangla or English",
+  "noResults": "No results for “{query}”",
+  "@noResults": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "kindStation": "Station",
+  "kindCity": "City",
+  "kindTown": "Town",
+  "kindSuburb": "Suburb",
+  "kindVillage": "Village",
+  "kindOther": "Place",
+  "junction": "Junction",
+  "terminus": "Terminus",
+  "connectedStations": "Connected stations",
+  "coordinates": "Coordinates",
+  "nearestStationTo": "Nearest station: {name} · {distance}",
+  "@nearestStationTo": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "distance": {
+        "type": "String"
+      }
+    }
+  },
+  "banglaNameUnavailable": "Bangla name not available in the dataset",
+  "nameFromDataset": "Name matched from OpenStreetMap place data",
+  "nameCurated": "Name from the app's curated list",
+  "nearbyBridges": "Bridges nearby",
+  "routeFromHere": "Route from here",
+  "routeToHere": "Route to here",
+  "showOnMap": "Show on map",
+  "share": "Share",
+  "shareStationText": "{name} railway station — {lat}, {lng}",
+  "@shareStationText": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "lat": {
+        "type": "String"
+      },
+      "lng": {
+        "type": "String"
+      }
+    }
+  },
+  "routeFrom": "From",
+  "routeTo": "To",
+  "selectStation": "Select station",
+  "swap": "Swap",
+  "findRoute": "Find route",
+  "clearRoute": "Clear route",
+  "routeDistance": "Track distance",
+  "routeStations": "Stations on route",
+  "routeBridges": "Bridges on route",
+  "routeNoPath": "No connected track path found.",
+  "routeNote": "Shortest path along the bundled track geometry. This is not a timetable and may differ from the path a particular train takes.",
+  "routeActive": "Route: {from} → {to}",
+  "@routeActive": {
+    "placeholders": {
+      "from": {
+        "type": "String"
+      },
+      "to": {
+        "type": "String"
+      }
+    }
+  },
+  "stopsCount": "{count} stations",
+  "@stopsCount": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "bridgeLength": "{length} long",
+  "@bridgeLength": {
+    "placeholders": {
+      "length": {
+        "type": "String"
+      }
+    }
+  },
+  "unnamedBridge": "Unnamed bridge",
+  "layers": "Map layers",
+  "layerRoads": "Roads",
+  "layerPlaces": "Places",
+  "layerBridges": "Bridges",
+  "layerLabels": "Station names",
+  "layerTiles": "Online base map",
+  "layerTilesOff": "Not configured. Offline vector map is used.",
+  "myLocation": "My location",
+  "locationWhyTitle": "Use your location?",
+  "locationWhyBody": "Your location is used once, on this device, to centre the map and find the nearest railway station. It is not stored or sent anywhere.",
+  "allow": "Continue",
+  "cancel": "Cancel",
+  "close": "Close",
+  "locationDenied": "Location permission was denied. You can still search for stations.",
+  "locationDeniedForever": "Location is blocked. Enable it in system settings to use this feature.",
+  "locationServiceOff": "Location services are turned off.",
+  "locationFailed": "Could not get your location.",
+  "openSettings": "Open settings",
+  "nearestToYou": "Nearest station to you: {name} ({distance})",
+  "@nearestToYou": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "distance": {
+        "type": "String"
+      }
+    }
+  },
+  "trainsTitle": "Trains",
+  "tabTracking": "Tracking",
+  "tabTimetable": "Timetable",
+  "trackingNotConfiguredTitle": "Live tracking is not connected",
+  "trackingNotConfiguredBody": "This app has no live train data source yet, so no real train positions are shown. A real feed needs a backend supplied by its owner. You can preview the interface with clearly labelled simulated trains.",
+  "startDemo": "Start demo mode",
+  "stopDemo": "Stop demo mode",
+  "demoBadge": "DEMO",
+  "demoBanner": "DEMO MODE — simulated trains. These are not real train positions.",
+  "demoSpeed": "Simulation runs {scale}× faster than real time.",
+  "@demoSpeed": {
+    "placeholders": {
+      "scale": {
+        "type": "String"
+      }
+    }
+  },
+  "updatedAt": "Updated {time}",
+  "@updatedAt": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "staleBanner": "No update for {seconds}s — data may be outdated.",
+  "@staleBanner": {
+    "placeholders": {
+      "seconds": {
+        "type": "String"
+      }
+    }
+  },
+  "pauseFeed": "Pause feed (test stale state)",
+  "resumeFeed": "Resume feed",
+  "trainsLoading": "Waiting for first update…",
+  "trainsEmpty": "No trains reported.",
+  "trainsError": "Could not read train data.",
+  "trainSpeed": "{speed} km/h (simulated)",
+  "@trainSpeed": {
+    "placeholders": {
+      "speed": {
+        "type": "String"
+      }
+    }
+  },
+  "trainProgress": "{percent}% of trip",
+  "@trainProgress": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "hornPlay": "Sound horn",
+  "timetablePartialNotice": "Partial timetable seed (Timetable No. 54 reference, effective 2025-03-10). Only terminal stations and times were transcribed; it is not a complete or verified schedule. Confirm with Bangladesh Railway before travelling.",
+  "offDay": "Weekly off-day: {day}",
+  "@offDay": {
+    "placeholders": {
+      "day": {
+        "type": "String"
+      }
+    }
+  },
+  "noOffDay": "No weekly off-day",
+  "nextDayArrival": "next day",
+  "viewOnMap": "View track on map",
+  "notOnMap": "An endpoint is not in the map dataset",
+  "svcIntercity": "Intercity",
+  "svcMail": "Mail/Express",
+  "svcInternational": "International",
+  "svcOther": "Other",
+  "verificationPartial": "Partial transcription — not verified",
+  "settingsTitle": "Settings",
+  "language": "Language",
+  "bangla": "বাংলা",
+  "english": "English",
+  "theme": "Theme",
+  "themeSystem": "System",
+  "themeLight": "Light",
+  "themeDark": "Dark",
+  "soundEffects": "Sound effects",
+  "soundEffectsDesc": "Train horn in demo mode.",
+  "mapOverlays": "Map overlays",
+  "networkTitle": "Network",
+  "offlineNote": "Rail map, stations, places and roads are bundled and work offline. Only an optional online base map and a future live feed need internet.",
+  "openNetworkSettings": "Open network settings",
+  "networkSettingsFailed": "Could not open network settings.",
+  "about": "About & data",
+  "dataAttribution": "Map data",
+  "datasetSummary": "{stations} stations · {segments} segments · {bridges} bridges · {places} places · {roads} roads",
+  "@datasetSummary": {
+    "placeholders": {
+      "stations": {
+        "type": "String"
+      },
+      "segments": {
+        "type": "String"
+      },
+      "bridges": {
+        "type": "String"
+      },
+      "places": {
+        "type": "String"
+      },
+      "roads": {
+        "type": "String"
+      }
+    }
+  },
+  "datasetGenerated": "Rail dataset generated {date}",
+  "@datasetGenerated": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "banglaCoverage": "Bangla names available for {have} of {total} stations; others show English.",
+  "@banglaCoverage": {
+    "placeholders": {
+      "have": {
+        "type": "String"
+      },
+      "total": {
+        "type": "String"
+      }
+    }
+  },
+  "parseIssues": "{count} dataset records were skipped",
+  "@parseIssues": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "disclaimer": "Independent reconstruction. Not affiliated with Bangladesh Railway. No real-time train data.",
+  "loading": "Loading rail data…",
+  "loadError": "Could not load the rail data.",
+  "retry": "Retry",
+  "mapAttribution": "© OpenStreetMap contributors (ODbL)",
+  "vectorMapNote": "Offline vector map",
+  "zoomIn": "Zoom in",
+  "zoomOut": "Zoom out",
+  "connectionsCount": "{count} connections",
+  "routeStationsNote": "Stations whose position lies within 250 m of the track. Derived from geometry, not from a timetable.",
+  "@connectionsCount": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "_note": "Curated Bangla names for stations whose Bangla name cannot be recovered from assets/rail/places.json. Maintained by this project (not OpenStreetMap-derived). Review before release; unlisted stations fall back to their English name.",
+  "names": {
+    "dhaka": "ঢাকা",
+    "airport": "বিমানবন্দর",
+    "abdulpur": "আব্দুলপুর",
+    "srimangal": "শ্রীমঙ্গল",
+    "chilahati": "চিলাহাটি",
+    "kaunia": "কাউনিয়া",
+    "poradah": "পোড়াদহ",
+    "teesta": "তিস্তা",
+    "arani": "আড়ানী",
+    "shamshernagar": "শমশেরনগর",
+    "bajitpur": "বাজিতপুর",
+    "amirganj": "আমিরগঞ্জ",
+    "hasanpur": "হাসানপুর",
+    "chatmohar": "চাটমোহর",
+    "mubarakganj": "মোবারকগঞ্জ",
+    "ibrahimabad": "ইব্রাহিমাবাদ",
+    "quasba": "কসবা"
+  }
+}
